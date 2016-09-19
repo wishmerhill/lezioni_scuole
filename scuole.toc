@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {italian}
+\select@language {italian}
+\beamer@sectionintoc {1}{I Carabinieri e i compiti di polizia}{3}{0}{1}
+\beamer@sectionintoc {2}{Il Bullismo - Conoscerlo e prevenirlo}{13}{0}{2}
+\beamer@sectionintoc {3}{Internet e i rischi connessi}{28}{0}{3}
